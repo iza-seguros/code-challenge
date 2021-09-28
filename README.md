@@ -38,7 +38,6 @@ Cor secundária: #444
 
 - Next.js & Typescript
 - Redux - ContextAPI ou Zustand  para gerenciamento de estado - Justifique sua escolha no arquivo [README.md](http://readme.md) do seu projeto
-- Mobx para gerenciamento de estado
 - Storybook
 - Variáveis, funções e todo o código deve ser escrito em inglês.
 - Conventional commits [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)
