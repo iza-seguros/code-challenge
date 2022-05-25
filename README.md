@@ -9,7 +9,7 @@ Confiamos no seu bom gosto, sinta-se livre para criar. Nossas única exigências
 
 - **Utilize o Logo da IZA:**
 
-[https://iza.com.vc/_nuxt/img/logo.d0c321f.png](https://iza.com.vc/_nuxt/img/logo.d0c321f.png)
+[https://painel.iza.vc/LUzjaB9Ub6](https://painel.iza.vc/LUzjaB9Ub6)
 
 - **Paleta de cores:**
 
@@ -43,6 +43,6 @@ Cor secundária: #444
 
 **Ao finalizar**
 
-Envie o teste para um repositório do **Github** e nos envie o link. Ou adicione o usuário @lucasalbuquerque se for um repositório privado.
+Envie o teste para um repositório do **Github** e nos envie o link. Ou adicione o usuário @felipebenevides se for um repositório privado.
 
 Boa sorte!
