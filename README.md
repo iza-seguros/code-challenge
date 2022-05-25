@@ -79,6 +79,6 @@ Regras:
 
 **Ao finalizar**
 
-Envie o teste para um repositório do **Github** e nos envie o link. Ou adicione o usuário @lucasalbuquerque se for um repositório privado.
+Envie o teste para um repositório do **Github** e nos envie o link. Ou adicione o usuário @felipebenevides se for um repositório privado.
 
 Boa sorte!
